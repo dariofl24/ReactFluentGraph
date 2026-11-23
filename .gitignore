@@ -1,0 +1,10 @@
+node_modules/
+**/dist/
+data/
+.env
+playwright-report/
+test-results/
+.DS_Store
+.idea/
+docs/implementation/
+docs/superpowers/
